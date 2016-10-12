@@ -3,7 +3,7 @@ Es una *forja* o plataforma que permite el desarrollo colaborativo de software (
 
 Se accede a GitHub creando una cuenta de usuario. La opción pública es gratuita y la privada es de pago.
 
-## GitHub repositorio: LenguajeDeMarcas
+### GitHub repositorio: LenguajeDeMarcas
 Es el lugar que alberga uno o más proyectos.
 
 Se puede editar código directamente o bien subir ficheros que contengan código, imágenes,... Uno o varios usuarios pueden, a su vez, modificar dicho código, lo cual dará lugar a diversas versiones del mismo.
@@ -12,7 +12,7 @@ La versión que damos por "buena" es la ***master branch*** y las versiones "de 
 
 En concreto, la *master branch* del repositorio LenguajeDeMarcas contiene el fichero WebPage.html y varios ficheros *.jpg* correspondientes al Ejercicio 2.2.1.-2.2.2. La utilidad de GitHub podría ser la de crear una *feature branch* para insertar el estilo de esa página web (*.css*). Una vez dada por "buena" la modificación, entonces ésta pasaría a ser la nueva *master branch* ("To merge a feature branch into a master branch").
 
-## GitHub. LenguajeDeMarcas. README.md
+### GitHub. LenguajeDeMarcas. README.md
 Es un fichero explicatorio del proyecto al que acompaña, el cual suele incluir un histórico de las diferentes versiones publicadas y los cambios realizados y porqué. En este caso en concreto, he precedido la información relativa al proyecto Ejercicio 2.2.1-2.2.2 de un resumen explicatorio de GitHub.
 
 Una puntualización: El presente README.md está escrito usando el lenguaje Markdown, un lenguaje simple que simula html.
@@ -21,13 +21,13 @@ Una puntualización: El presente README.md está escrito usando el lenguaje Mark
 # Información del presente proyecto
 Clasificación genérica de los moluscos.
 
-## Estructura del presente proyecto
+### Estructura del presente proyecto
 1. WebPage.html
-..1. Cabeza de la página
++ Cabeza de la página
   - Título de la pestaña del navegador: Flora y fauna del Mar Mediterráneo. Moluscos. Clasificación genérica.
   - Descripción para los buscadores: "El molusco (del latín molluscum) es un invertebrado de cuerpo blando e insegmentado. Los moluscos son el grupo animal más numeroso después de los artrópodos. Éstos se clasifican principalmente en gasterópodos, lamelibranquios y cefalópodos."
 
-..2. Contenido de la página
++ Contenido de la página
   - Dos cabeceras (h1 y h2) cuyo contenido coincide, en este caso, con el título de la pestaña
   - Un párrafo descriptivo cuyo contenido coincide, en este caso, con la descripción para los buscadores.
   - Una lista con tres elementos (clases de moluscos) que son a su vez enlaces a otras páginas.
