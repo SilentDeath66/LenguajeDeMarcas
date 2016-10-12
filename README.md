@@ -19,7 +19,7 @@ Una puntualización: El presente README.md está escrito usando el lenguaje Mark
 
 
 # Información del presente proyecto
-Tema: [Clasificación genérica de los moluscos.](https://rawgit.com/mnibir/LenguajeDeMarcas/master/WebPage.html "Enlace al proyecto")
+Tema: [Clasificación genérica de los moluscos.](https://rawgit.com/mnibir/LenguajeDeMarcas/master/WebPage.html "Enlace al proyecto" target="_blank")
 
 ### Estructura del presente proyecto
 1. WebPage.html
