@@ -19,7 +19,7 @@ Una puntualización: El presente README.md está escrito usando el lenguaje Mark
 
 
 # Información del presente proyecto
-Clasificación genérica de los moluscos.
+Tema: Clasificación genérica de los moluscos.
 
 ### Estructura del presente proyecto
 1. WebPage.html
