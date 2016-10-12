@@ -22,18 +22,18 @@ Una puntualización: El presente README.md está escrito usando el lenguaje Mark
 Clasificación genérica de los moluscos.
 
 ## Estructura del presente proyecto
-* WebPage.html
-1. Cabeza de la página
+1 WebPage.html
+1.1 Cabeza de la página
   - Título de la pestaña del navegador: Flora y fauna del Mar Mediterráneo. Moluscos. Clasificación genérica.
   - Descripción para los buscadores: "El molusco (del latín molluscum) es un invertebrado de cuerpo blando e insegmentado. Los moluscos son el grupo animal más numeroso después de los artrópodos. Éstos se clasifican principalmente en gasterópodos, lamelibranquios y cefalópodos."
 
-2. Contenido de la página
+1.2 Contenido de la página
   - Dos cabeceras (h1 y h2) cuyo contenido coincide, en este caso, con el título de la pestaña
   - Un párrafo descriptivo cuyo contenido coincide, en este caso, con la descripción para los buscadores.
   - Una lista con tres elementos (clases de moluscos) que son a su vez enlaces a otras páginas.
   - Una tabla de 4 filas x 3 columnas. La primera fila es una cabecera (clases de moluscos) y las demás filas son el contenido de la tabla (nombre e imagen de especimen por celda).
   
-* *NombreDeEspecimen*.jpg
+2 *NombreDeEspecimen*.jpg
 
 
 
